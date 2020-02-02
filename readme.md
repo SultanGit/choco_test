@@ -33,3 +33,8 @@ password: 123456
 login: user
 password: 123456
 ```
+
+Коллекция запросов Postman:
+```
+https://www.getpostman.com/collections/048a926cafe39587c0d5
+```
