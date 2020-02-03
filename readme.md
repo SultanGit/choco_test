@@ -5,10 +5,11 @@
 composer install
 ```
 Укажите подключение к БД в .env:
+
+Выполните команды:
 ```
 php artisan migrate
 ```
-Выполните команды:
 ```
 php artisan jwt:secret
 ```
@@ -24,7 +25,7 @@ password: 123456
 
 Пользователь с правами модера:
 ```
-login: amoder
+login: moder
 password: 123456
 ```
 
